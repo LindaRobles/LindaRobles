@@ -6,7 +6,7 @@
 <h1 align="center">Hi 🥷, I'm Linda Robles!!</h1>
 <h3 align="center">I'm your tech ninja in the shadows! Once a master of essays and news, now I'm silently coding my way through the digital dojo. 🥋💻 Join me on this covert mission into the world of ones and zeros!</h3>
 
-<picture> <img align="right" src="https://i.gifer.com/371U.gif" width = 250px></picture>
+<picture> <img align="right" src="[https://i.gifer.com/371U.gif](https://tenor.com/bU1QY.gif)" width = 250px></picture>
 
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindarobles&label=Profile%20views&color=0e75b6&style=flat" alt="lindarobles" /> </p>
